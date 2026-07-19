@@ -1,2 +1,50 @@
-# LeetCode-Questions
-Here are the questions of LeetCode that I have solved using Java
+# LeetCode-Questions🚀
+
+This repository contains my solutions to LeetCode problems solved while practicing Data Structures and Algorithms (DSA) in Java.
+
+Each problem includes:
+- A brief explanation of the approach
+- Time and Space Complexity
+- Java solution
+
+---
+
+## Repository Structure
+
+```text
+LeetCode/
+│
+├── Arrays/
+│   ├── 0033_Search_in_Rotated_Sorted_Array/
+│   └── 0217_Contains_Duplicate/
+│
+└── README.md
+```
+
+---
+
+## Languages
+
+- Java
+
+---
+
+## Progress
+
+| Topic | Problems Solved |
+|-------|----------------:|
+| Arrays | 2 |
+| **Total** | **2** |
+
+---
+
+## Purpose
+
+- Improve problem-solving skills
+- Strengthen DSA concepts
+- Prepare for technical interviews
+- Track my learning journey
+
+---
+
+More solutions and topics will be added as I continue solving problems.
