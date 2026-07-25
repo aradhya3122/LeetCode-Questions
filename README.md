@@ -33,8 +33,9 @@ LeetCode/
 
 | Topic | Problems Solved |
 |-------|----------------:|
-| Arrays | 2 |
-| **Total** | **2** |
+| Arrays | 5 |
+| Math | 2 |
+| **Total** | **7** |
 
 ---
 
